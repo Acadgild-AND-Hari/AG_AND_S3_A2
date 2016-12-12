@@ -10,8 +10,10 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.hari.aag.opencontacts.OpenContactsActivity">
 
-    <TextView
+    <Button
+        android:id="@+id/id_contacts"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:layout_centerHorizontal="true"
+        android:text="@string/str_contacts" />
 </RelativeLayout>

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Open Contacts</string>
+    <string name="str_contacts">Open Phone Contacts</string>
 </resources>
